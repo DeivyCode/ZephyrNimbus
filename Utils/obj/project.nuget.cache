@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVCusmwJPoMNnSgmP1RQZVcYdSeyXu+wqihDEwGsJfSMMQq5QoUTL436NqXslsDUGZeEBjKScv3bgmgUoIwlDQ==",
+  "success": true,
+  "projectFilePath": "/Users/davidgarcia/Developer/learning/zephrry-nimbus/Utils/Utils.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidgarcia/.nuget/packages/cliwrap/3.6.6/cliwrap.3.6.6.nupkg.sha512"
+  ],
+  "logs": []
+}
